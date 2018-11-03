@@ -1,0 +1,10 @@
+main: com.ad89q.verwaltung.Verwaltung
+name: Verwaltung
+version: 1.0
+author: ad89q
+load: STARTUP
+
+commands:
+     verwaltung:
+     heal:
+     coins:
